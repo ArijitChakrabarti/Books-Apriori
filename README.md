@@ -1,5 +1,3 @@
-![image.png](attachment:c108ec84-df4f-4c7e-9cfa-aa16bf12b8dd.png)
-
 <h1><center><bold>Understanding the Apriori Algo</bold></center></h1>
 
 
@@ -13,3 +11,4 @@ The objective is to understand basis buying behaviour what are the other books t
 
 We conclude with a network map showcasing the relationship or priors with a confidence of above 55%
 
+You can check out the complete project by clicking [here](https://github.com/ArijitChakrabarti/Books-Apriori/blob/main/Books%20Database.ipynb).
